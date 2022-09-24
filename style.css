@@ -1,0 +1,26 @@
+
+body{
+    margin: auto;
+    width: 90%;
+}
+
+details p{
+    color: red;
+    font-weight: bold;
+}
+
+.left{
+    float: left;
+    margin: auto;
+    width: 40%;
+}
+
+.right{
+    float: right;
+    margin: auto;
+    width: 55%;
+}
+
+.clearfix{
+    clear: both;
+}
